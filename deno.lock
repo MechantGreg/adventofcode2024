@@ -1,0 +1,14 @@
+{
+  "version": "4",
+  "remote": {
+    "https://esm.sh/@mobily/ts-belt@3.13.1": "29fb7c8f7bcceee978c8bfe04dfc619780d0d00e1d0cdb4c20fae1f6ebfc86db",
+    "https://esm.sh/v135/@mobily/ts-belt@3.13.1/denonext/ts-belt.mjs": "a953c9aed4adb8c6cdad163cef61530f647732099ac3daee00d1bd2f05c44e14"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:ts-arithmetic@~0.1.1"
+      ]
+    }
+  }
+}

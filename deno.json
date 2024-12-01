@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "d1": "deno run --allow-read ./exos/day1bis.ts",
+  },
+  "fmt": {
+    "lineWidth": 200,
+    "singleQuote": true,
+    "semiColons": false
+  }
+}
