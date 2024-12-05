@@ -1,9 +1,6 @@
 {
     "tasks": {
-        "d1": "deno run --allow-read ./exos/day1bis.ts",
-        "d2": "deno run --allow-read ./exos/day2.ts",
-        "d3": "deno run --allow-read ./exos/day3.ts",
-        "d4": "deno run --allow-read ./exos/day4.ts"
+        "run": "deno run --allow-read"
     },
     "fmt": {
         "lineWidth": 200,
